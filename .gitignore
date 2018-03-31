@@ -1,0 +1,11 @@
+discovered
+discovered*
+dark_matter
+dark_matter*
+experiment
+fresh_meat
+*.db
+*-wal
+*-shm
+.ipynb*
+__pycache__
